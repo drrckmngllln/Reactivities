@@ -50,7 +50,6 @@ namespace API.Extensions
 
             services.AddSignalR();
 
-
             return services;
         }
     }
